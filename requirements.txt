@@ -1,0 +1,4 @@
+cloudpicle
+sklearn
+scipy
+mlserve

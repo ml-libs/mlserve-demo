@@ -1,0 +1,12 @@
+models:
+  - name: "iris_lr"
+    description: "Iris dataset for logistic regression"
+    model_path: "iris_lr/iris_lr.pkl"
+    data_schema_path: "iris_lr/iris_lr.json"
+    target: "target"
+
+  - name: "toxic_lr"
+    description: "Toxic comments classification with TF/IDF and LogisticRegression"
+    model_path: "toxic_lr/toxic_lr.pkl"
+    data_schema_path: "toxic_lr/toxic_lr.json"
+    target: ["identity_hate", "insult", "obscene", "severe_toxic", "threat", "toxic"]
