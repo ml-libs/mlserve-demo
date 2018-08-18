@@ -1,4 +1,5 @@
-cloudpicle
+mlserve==0.0.1a6
+cloudpickle
 sklearn
 scipy
-mlserve
+dataclasses
