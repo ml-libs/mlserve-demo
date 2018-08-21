@@ -1,6 +1,6 @@
 mlserve-demo
 ============
-Demo project for **mlserve** deployed on heroku.
+Demo project for **mlserve** (https://github.com/jettify/mlserve) deployed on heroku.
 
 
 * https://young-ridge-56019.herokuapp.com
