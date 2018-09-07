@@ -9,7 +9,7 @@ Deployement
 -----------
 Execute following commands::
 
-    $ pip install git+https://github.com/jettify/mlserve.git
+    $ pip install git+https://github.com/ml-libs/mlserve.git
     $ heroku create
     $ git push heroku master
     $ heroku logs --tail
