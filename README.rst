@@ -1,6 +1,7 @@
 mlserve-demo
 ============
-Demo project for **mlserve** (https://github.com/jettify/mlserve) deployed on heroku.
+Demo project for **mlserve** (https://github.com/ml-libs/mlserve) deployed on
+heroku.
 
 
 * https://young-ridge-56019.herokuapp.com
@@ -18,7 +19,7 @@ Execute following commands::
 
 Purge caches
 ------------
-Sometimes it is usevull to purge pip caches to force app to use new library::
+Sometimes it is useful to purge pip caches to force app to use new library::
 
     $ heroku plugins:install heroku-repo
     $ heroku repo:purge_cache -a appname
