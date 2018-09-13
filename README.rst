@@ -6,6 +6,12 @@ heroku.
 
 * https://young-ridge-56019.herokuapp.com
 
+Deployed Project
+----------------
+* Prediction of fake instagram users based on public profile.
+* Iris species classification, using on dataset from sklearn.
+* Toxic comment classification, bases on kaggle dataset.
+
 Deployement
 -----------
 Execute following commands::
