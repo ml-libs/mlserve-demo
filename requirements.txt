@@ -1,5 +1,7 @@
 mlserve==0.0.1a6
-cloudpickle
-sklearn
-scipy
-dataclasses
+cloudpickle==0.6.0
+scikit-learn==0.20.0
+scipy==1.1.0
+dataclasses==0.6
+tensorflow==1.10.0
+Keras==2.2.4
