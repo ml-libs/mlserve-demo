@@ -16,3 +16,9 @@ models:
     model_path: "instagram/instgram_rf.pkl"
     data_schema_path: "instagram/instagram.json"
     target: ["rating"]
+
+  - name: "toxic_lstm"
+    description: "Toxic comments classification with Keras LSTM"
+    model_path: "toxic_lstm/keras.pkl"
+    data_schema_path: "toxic_lstm/toxic_lstm.json"
+    target: ["identity_hate", "insult", "obscene", "severe_toxic", "threat", "toxic"]
